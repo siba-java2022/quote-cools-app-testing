@@ -10,7 +10,7 @@ This project is a web application built with **Next.js**, **TypeScript**, and **
 
 ## Prerequisites
 Before you begin, ensure you have the following installed on your machine:
-- **Node.js** (version 16.14 or higher): A JavaScript runtime for building server-side applications.
+- **Node.js** (version 18.18 or higher): A JavaScript runtime for building server-side applications.
 - **npm** (Node Package Manager): Comes with Node.js, used to install project dependencies.
 
 ## Installation Instructions
