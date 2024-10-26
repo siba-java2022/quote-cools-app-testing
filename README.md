@@ -10,7 +10,7 @@ This project is a web application built with **Next.js**, **TypeScript**, and **
 
 ## Prerequisites
 Before you begin, ensure you have the following installed on your machine:
-- **Node.js** (version 18 or higher): A JavaScript runtime for building server-side applications.
+- **Node.js** (version 16.14 or higher): A JavaScript runtime for building server-side applications.
 - **npm** (Node Package Manager): Comes with Node.js, used to install project dependencies.
 
 ## Installation Instructions
@@ -18,7 +18,7 @@ Before you begin, ensure you have the following installed on your machine:
 ### Step 1: Clone the Repository
 First, you need to clone the project repository to your local machine. Open your terminal and run:
 ```bash
-git clone
+git clone https://github.com/siba-java2022/quote-cools-app-testing.git
 cd your-repo
 npm install
 npm run build
